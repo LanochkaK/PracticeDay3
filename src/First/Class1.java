@@ -9,7 +9,6 @@ public class Class1 {
         setRadius(radius);
     }  */
     
-    
  // great job, but try try catch block be applyed   
     
 
