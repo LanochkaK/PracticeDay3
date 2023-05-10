@@ -8,6 +8,10 @@ public class part1 {
         System.out.println("Hello world");
 
 
+     // missing part are added    
+        
+        
+        
     }
 
 }
